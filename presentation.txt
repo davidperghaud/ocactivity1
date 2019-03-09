@@ -1,3 +1,9 @@
+//Version francaise
 Je m'appelle David Mboyam.
 J'ai 22 ans et je suis né à Yaoundé, Capitale politique du Cameroun le pays de Samuel Eto'o et de Richard Bona.
 Je suis passioné par l'informatique et tout ce qui m'intéresse c'est d'apprendre.
+
+//version anglaise
+Hi! My name is David Mboyam.
+I'm 22 years old and borned in Yaoundé, politic capital city of Cameroon, the country of Samuel Eto´o and Richard Bona.
+I Love Computer Sciences, and all I want is too learn
